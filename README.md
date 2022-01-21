@@ -14,3 +14,6 @@ This demonstrate an improvement of 0.33 in R2 score, a decrease of 6.8 % in MAPE
 **Data Description:** *To develop the Electricity demand forecasting model, this project uses the Energy consumption data of SanDiego for the years 2014 to 2018, and the corresponding weather data from San Diego Airport weather station and PV installation data of SanDiego for the corresponding years is used.*
 
 **Assumptions:** *This project is done by assuming that, the PV installation data and weather data are available in future, without any forecasting requirement. But in real time, it is required to forecast these also. However, simply subsituting the values for weather and PV installation related variables, using the already forecasted values will ensure the performance of the model developed in this work.* 
+
+
+For code: [Exploratory Data Analysis](https://github.com/MuafiraThasni/Electricity-Demand-Forecasting/blob/main/ElectricityDemandForecasting_note1_EDA.ipynb), [Modeling](https://github.com/MuafiraThasni/Electricity-Demand-Forecasting/blob/main/ElectricityDemandForecasting_note2_Modleing.ipynb)
